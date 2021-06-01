@@ -9,3 +9,5 @@ Hi there 👋
 - 🧷 See my portfolios here: digitori.my.id
 - 📫 How to reach me: ahmadinations@gmail.com or 085295405635
 
+[![Muhamad Ahmadin's github stats](https://github-readme-stats.vercel.app/api?username=MuhamadAhmadin)](https://github.com/MuhamadAhmadin)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhamadAhmadin&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)

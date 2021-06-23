@@ -28,7 +28,7 @@ jobs:
           # Show the Coding language used in dev metrics
           SHOW_LANGUAGE: True
           # Show the Total Lines of code written Badge till date
-          SHOW_LINES_OF_CODE: False
+          SHOW_LINES_OF_CODE: True
           # Show language or framework used across different repository
           SHOW_LANGUAGE_PER_REPO: True
           # 

@@ -11,3 +11,6 @@ Hi there 👋
 
 [![Muhamad Ahmadin's github stats](https://github-readme-stats.vercel.app/api?username=MuhamadAhmadin)](https://github.com/MuhamadAhmadin)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhamadAhmadin&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

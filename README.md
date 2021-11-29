@@ -3,7 +3,7 @@ Hi there 👋
 - 🔭 I’m currently working at PT Bengkel Web Indonesia
 - 🌱 I’m currently learning PHP Framework (Laravel)
 - 📂 Im Open for freelance job!
-- 🧷 See my portfolios here: digitori.my.id
+- 🧷 See my portfolios here: bengkelwebindonesia.com/muhamadahmadin
 - 📫 How to reach me: ahmadinations@gmail.com or 085295405635
 
 

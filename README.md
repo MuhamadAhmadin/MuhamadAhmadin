@@ -3,8 +3,8 @@ Hi there 👋
 - 🔭 I’m currently working at PT Bengkel Web Indonesia
 - 🌱 I’m currently learning PHP Framework (Laravel)
 - 📂 Im Open for freelance job!
-- 🧷 See my portfolios here: bengkelwebindonesia.com/muhamadahmadin
-- 📫 How to reach me: ahmadinations@gmail.com or 085295405635
+- 🧷 See my portfolios here: muhamadahmadin.github.io
+- 📫 How to reach me: ahmadinations@gmail.com or 6285295405635
 
 
 <!--START_SECTION:waka-->

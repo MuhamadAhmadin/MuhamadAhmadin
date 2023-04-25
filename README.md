@@ -1,9 +1,9 @@
 Hi there 👋
 
-- 🔭 I’m currently working at PT Bengkel Web Indonesia
-- 🌱 I’m currently learning PHP Framework (Laravel)
-- 📂 Im Open for freelance job!
-- 🧷 See my portfolios here: muhamadahmadin.github.io
+- 🔭 I’m a Fullstack Web Developer
+- 🌱 Familiar with PHP Framework (Laravel) for 2 Year
+- 📂 Im Open for freelance/project job!
+- 🧷 See my portfolios here: https://muhamadahmadin.com/portofolio/
 - 📫 How to reach me: ahmadinations@gmail.com or 6285295405635
 
 

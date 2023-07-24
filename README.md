@@ -1,7 +1,7 @@
 Hi there 👋
 
 - 🔭 I’m a Fullstack Web Developer
-- 🌱 Familiar with PHP Framework (Laravel) for 2 Year
+- 🌱 Familiar with PHP Framework (Laravel) for 3 Year
 - 📂 Im Open for freelance/project job!
 - 🧷 See my portfolios here: https://muhamadahmadin.com/portofolio/
 - 📫 How to reach me: ahmadinations@gmail.com or 6285295405635
